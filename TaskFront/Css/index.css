@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.about-area, .services-area, .contact-area{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    height: 450px;
+    
+    
+}
+.about-area{
+    height: 450px;
+}
+
+.container2{
+    height: 500px;
+    
+}
+
+
+.text-part{
+    width: 65%;
+    height: 80%;
+   
+}
+.h1{
+    text-align: center;
+    padding: 150px;
+    font-size: large;
+
+
+}
+p{
+ font-size: large;
+}
+
+
+#footer{
+    align-items: center;
+}
